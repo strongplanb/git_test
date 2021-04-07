@@ -1,0 +1,1 @@
+Hi, I'm practicing this lesson by going through the steps without looking at the code for answers!
